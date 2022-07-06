@@ -272,6 +272,15 @@
     .footer__page-links__column {
         margin-bottom: 20px;
     }
+    .footer__row-bottom {
+        flex-direction: column;
+    }
+    .footer__row-top {
+        margin-bottom: 30px;
+    }
+    .footer__left-bottom {
+        margin-bottom: 15px;
+    }
 }
 
 @media (max-width: 400px) {
