@@ -11,6 +11,10 @@ font-family: 'Manrope', sans-serif;
 
 font-family: 'Urbanist', sans-serif; */
 
+body.fixed {
+	position: fixed;
+}
+
 .container {
 	max-width: 1280px;
 	margin: 0 auto;
